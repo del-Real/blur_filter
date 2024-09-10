@@ -1,7 +1,7 @@
 # blur_filter
-A simple implementation of blur filter algorithm using kernel convolution. The script applies a blur effect to an input image by convolving the image with a kernel.
+A simple implementation of blur filter algorithm using kernel convolution.
 
-![](./Figure_1.png)
+![](./demo.png)
 
 ## Dependencies
 
